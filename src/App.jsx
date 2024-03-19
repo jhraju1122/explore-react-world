@@ -1,7 +1,7 @@
 import { useEffect, useState } from 'react'
  
 import './App.css'
-import Countries from './components/Countries'
+import Countries from './components/Countries/Countries'
  function App() {
   
   return (
